@@ -3,18 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBootcampDIO.iml" filepath="$PROJECT_DIR$/.idea/JavaBootcampDIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num1-hello/num1-hello.iml" filepath="$PROJECT_DIR$/num1-hello/num1-hello.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num10-ForLoopStructure/num10-ForLoopStructure.iml" filepath="$PROJECT_DIR$/num10-ForLoopStructure/num10-ForLoopStructure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num11-RepetitionStructureWhile/num11-RepetitionStructureWhile.iml" filepath="$PROJECT_DIR$/num11-RepetitionStructureWhile/num11-RepetitionStructureWhile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num12-Exercicios/num12-Exercicios.iml" filepath="$PROJECT_DIR$/num12-Exercicios/num12-Exercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num2-PadraoJava/num2-PadraoJava.iml" filepath="$PROJECT_DIR$/num2-PadraoJava/num2-PadraoJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num3-tiposPrimitivos/num3-tiposPrimitivos.iml" filepath="$PROJECT_DIR$/num3-tiposPrimitivos/num3-tiposPrimitivos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num4-operadores/num4-operadores.iml" filepath="$PROJECT_DIR$/num4-operadores/num4-operadores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num5-operadoresAritmeticos/num5-operadoresAritmeticos.iml" filepath="$PROJECT_DIR$/num5-operadoresAritmeticos/num5-operadoresAritmeticos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num6-OperadoresBitwise/num6-OperadoresBitwise.iml" filepath="$PROJECT_DIR$/num6-OperadoresBitwise/num6-OperadoresBitwise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num7-exercise/num7-exercise.iml" filepath="$PROJECT_DIR$/num7-exercise/num7-exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num8-ConditionalEstructures/num8-ConditionalEstructures.iml" filepath="$PROJECT_DIR$/num8-ConditionalEstructures/num8-ConditionalEstructures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/num9-switchCase/num9-switchCase.iml" filepath="$PROJECT_DIR$/num9-switchCase/num9-switchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num1-hello/num1-hello.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num1-hello/num1-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num10-ForLoopStructure/num10-ForLoopStructure.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num10-ForLoopStructure/num10-ForLoopStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num11-RepetitionStructureWhile/num11-RepetitionStructureWhile.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num11-RepetitionStructureWhile/num11-RepetitionStructureWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num12-Exercicios/num12-Exercicios.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num12-Exercicios/num12-Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num2-PadraoJava/num2-PadraoJava.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num2-PadraoJava/num2-PadraoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num3-tiposPrimitivos/num3-tiposPrimitivos.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num3-tiposPrimitivos/num3-tiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num4-operadores/num4-operadores.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num4-operadores/num4-operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num5-operadoresAritmeticos/num5-operadoresAritmeticos.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num5-operadoresAritmeticos/num5-operadoresAritmeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num6-OperadoresBitwise/num6-OperadoresBitwise.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num6-OperadoresBitwise/num6-OperadoresBitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num7-exercise/num7-exercise.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num7-exercise/num7-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num8-ConditionalEstructures/num8-ConditionalEstructures.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num8-ConditionalEstructures/num8-ConditionalEstructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num9-switchCase/num9-switchCase.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num9-switchCase/num9-switchCase.iml" />
     </modules>
   </component>
 </project>

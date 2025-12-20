@@ -26,6 +26,13 @@ O objetivo principal deste programa é o domínio da stack completa para o desen
 
 ---
 
+## 📑 Organização do Repositório
+O projeto está dividido em grandes marcos de aprendizado:
+
+Part 01 - Lógica de Programação: Fundamentos, sintaxe e estruturas de controle.
+
+Part 02 - POO: Classes, Objetos, Herança, Encapsulamento e Polimorfismo.
+
 ## 🚀 Status do Projeto
 > [!TIP]
 > Por ser um bootcamp em andamento, este repositório é atualizado constantemente com novos desafios de código, exercícios de lógica e projetos práticos. 
