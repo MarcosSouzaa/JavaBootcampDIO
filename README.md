@@ -35,6 +35,6 @@ O objetivo principal deste programa é o domínio da stack completa para o desen
 ## 👤 Autor
 **Marcos Souza**
 * [GitHub](https://github.com/MarcosSouzaa)
-* [LinkedIn](www.linkedin.com/in/marcosantoniosouza)
+* [LinkedIn](https://www.linkedin.com/in/marcosantoniosouza)
   
  ### Este repositório faz parte do meu portfólio e reflete minha dedicação ao aprendizado contínuo na trilha de engenharia de software.*
