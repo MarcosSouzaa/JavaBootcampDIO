@@ -2,7 +2,7 @@ package br.com.dio;
 
 import java.util.Scanner;
 
-public class Main {
+public class UsingOperators {
     public static void main(String[] args) {
         System.out.println("\n----------------------------  trabalhando com operadores ----------------------------\n");
 
