@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-Orientacao-a-Objetos/02-Orientacao-a-Objetos.iml" filepath="$PROJECT_DIR$/02-Orientacao-a-Objetos/02-Orientacao-a-Objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBootcampDIO.iml" filepath="$PROJECT_DIR$/.idea/JavaBootcampDIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num1-hello/num1-hello.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num1-hello/num1-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-Logica-de-Programacao/num10-ForLoopStructure/num10-ForLoopStructure.iml" filepath="$PROJECT_DIR$/01-Logica-de-Programacao/num10-ForLoopStructure/num10-ForLoopStructure.iml" />

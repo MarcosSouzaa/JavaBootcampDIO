@@ -1,5 +1,6 @@
-### IntelliJ IDEA ###
+### Compilação e saídas
 out/
+*.class
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
@@ -26,5 +27,16 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+# Arquivos do Sistema
 .DS_Store
+Thumbs.db
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Temporários
+*.log
+*.tmp
