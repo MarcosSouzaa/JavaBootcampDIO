@@ -1,4 +1,4 @@
-package br.com.dio.poo.model.exercicios;
+package br.com.dio.poo.model.exercicios1;
 
 /**
  * 1. Escreva um código onde temos o controle de banho de um petshop, a maquina de banhos dos pets deve ter

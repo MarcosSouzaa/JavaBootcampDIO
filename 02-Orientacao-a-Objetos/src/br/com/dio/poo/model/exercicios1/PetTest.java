@@ -1,4 +1,4 @@
-package br.com.dio.poo.model.exercicios;
+package br.com.dio.poo.model.exercicios1;
 
 import java.util.Scanner;
 
